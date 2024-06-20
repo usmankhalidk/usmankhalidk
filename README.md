@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Usman Khalid</h1>
-<h3 align="center">A Full Stack Developer (MERN and MEAN) with over 5 years of experience</h3>
+<h3 align="center">a Full Stack Developer (MERN and MEAN) with over 5 years of experience</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=usmankhalidk&label=Profile%20views&color=0e75b6&style=flat" alt="usmankhalidk" /> </p>
 
@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [Maintenance of HIMS](https://pakhims.com)
 
-- 💬 Ask me about **I am Usman Khalid, a Full Stack Developer with over 5 years of expertise in the MERN (MongoDB, Express.js, React.js, Node.js) and MEAN (MongoDB, Express.js, Angular, Node.js) stacks. With a portfolio of over 30 successfully completed projects, I have experience across diverse sectors such as Finance, Healthcare, Real Estate, and E-commerce. I specialize in providing comprehensive development services from initial planning to deployment and ongoing maintenance. My commitment is to deliver high-quality work punctually while maintaining clear and consistent communication. My skill set includes website and software development, database management, API integration, and cloud solutions. Let’s work together to achieve efficient and seamless project outcomes!**
+- 💬 About me: **I am Usman Khalid, a Full Stack Developer with over 5 years of expertise in the MERN (MongoDB, Express.js, React.js, Node.js) and MEAN (MongoDB, Express.js, Angular, Node.js) stacks. With a portfolio of over 30 successfully completed projects, I have experience across diverse sectors such as Finance, Healthcare, Real Estate, and E-commerce. I specialize in providing comprehensive development services from initial planning to deployment and ongoing maintenance. My commitment is to deliver high-quality work punctually while maintaining clear and consistent communication. My skill set includes website and software development, database management, API integration, and cloud solutions. Let’s work together to achieve efficient and seamless project outcomes!**
 
 - 📫 How to reach me **u.khalid222@gmail.com**
 
