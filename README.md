@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Usman Khalid</h1>
-<h3 align="center">a Full Stack Developer (MERN and MEAN) with over 5 years of experience</h3>
+<h3 align="center">A Full Stack Developer (MERN and MEAN) with over 5 years of experience</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=usmankhalidk&label=Profile%20views&color=0e75b6&style=flat" alt="usmankhalidk" /> </p>
 
