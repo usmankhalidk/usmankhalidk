@@ -9,7 +9,7 @@
 
 - 💬 About me: **I am Usman Khalid, a Full Stack Developer with over 5 years of expertise in the MERN (MongoDB, Express.js, React.js, Node.js) and MEAN (MongoDB, Express.js, Angular, Node.js) stacks. With a portfolio of over 30 successfully completed projects, I have experience across diverse sectors such as Finance, Healthcare, Real Estate, and E-commerce. I specialize in providing comprehensive development services from initial planning to deployment and ongoing maintenance. My commitment is to deliver high-quality work punctually while maintaining clear and consistent communication. My skill set includes website and software development, database management, API integration, and cloud solutions. Let’s work together to achieve efficient and seamless project outcomes!**
 
-- 📫 How to reach me **u.khalid222@gmail.com**
+- 📫 How to reach me on upwork **https://www.upwork.com/freelancers/usmankhalid949**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
