@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Usman Khalid</h1>
-<h3 align="center">Full-Stack Developer (MERN & MEAN) | 7+ Years of Experience</h3>
+<h3 align="center">Full Stack AI Software Developer | Web · Mobile · SaaS · MVP | Shipped for 500K+ Users</h3>
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=usmankhalidk&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
@@ -12,9 +12,13 @@
 </div>
 
 <p align="center">
-  <strong>🔭 Currently working on:</strong> Maintenance & Enhancement of a Hospital Information Management System (HIMS)<br/>
-  <strong>🌱 Passionate about:</strong> Building scalable, clean, and performant web applications<br/>
-  <strong>⚡ Expertise across:</strong> Finance • Healthcare • Real Estate • E-commerce
+  :rocket: I build full-stack web, mobile, and AI-powered products that scale<br/>
+  :telescope: Currently: Managing an AI Healthcare platform and multiple freelance projects worldwide<br/>
+  :zap: Domains: Healthcare · Fintech · AgriTech · EdTech · E-commerce · LegalTech<br/>
+  :robot_face: AI Stack: OpenAI · Anthropic · LangChain · RAG · n8n<br/>
+  :hammer_and_wrench: AI Dev Tools: Lovable · Replit · Base44 · Cursor · Bolt<br/>
+  :iphone: Mobile: React Native (iOS & Android)<br/>
+  :seedling: Exploring: Enterprise AI Systems · AI Agents · E-commerce Automation
 </p>
 
 <hr/>
