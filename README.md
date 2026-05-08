@@ -15,7 +15,7 @@
   :rocket: I build full-stack web, mobile, and AI-powered products that scale<br/>
   :telescope: Currently: Managing an AI Healthcare platform and multiple freelance projects worldwide<br/>
   :zap: Domains: Healthcare · Fintech · AgriTech · EdTech · E-commerce · LegalTech<br/>
-  :robot_face: AI Stack: OpenAI · Anthropic · LangChain · RAG · n8n<br/>
+  🤖 AI Stack: OpenAI · Anthropic · LangChain · RAG · n8n<br/>
   :hammer_and_wrench: AI Dev Tools: Lovable · Replit · Base44 · Cursor · Bolt<br/>
   :iphone: Mobile: React Native (iOS & Android)<br/>
   :seedling: Exploring: Enterprise AI Systems · AI Agents · E-commerce Automation
